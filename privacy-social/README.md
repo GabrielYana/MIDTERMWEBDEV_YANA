@@ -105,6 +105,3 @@ Kung e refresh or gamiton sa lain nga browser/computer, some information may not
 Through this midterm, I practiced how to create several HTML pages and connect them using links. I also practiced basic CSS styling, HTML forms, and simple JavaScript events.
 
 Nakatabang pud ang midterm para masabtan nako nga ang frontend is responsible for what the user sees and interacts with on the website. Even without a backend, makahimo gihapon og simple prototype for practice.
-
-## 10. Conclusion
-PrivySpace is a basic social media prototype that demonstrates the fundamentals of Web Development. The project uses simple code so it is easier to study, explain, and modify. The important part is that the required pages work together and the basic HTML, CSS, and JavaScript concepts are shown clearly.
