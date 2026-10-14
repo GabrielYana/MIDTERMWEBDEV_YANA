@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #dfe7ef;
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 14px;
+  color: #222222;
+}
+
+a { color: #003399; }
+a:hover { text-decoration: none; }
+
+#wrapper {
+  width: 760px;
+  margin: 20px auto;
+  background: white;
+  border: 1px solid #777777;
+}
+
+#header {
+  background: #336699;
+  color: white;
+  padding: 12px;
+  border-bottom: 3px solid #1f4e79;
+}
+
+#header h1 { margin: 0; font-size: 26px; }
+#header p { margin: 4px 0 0; }
+
+#nav {
+  background: #eeeeee;
+  padding: 7px 10px;
+  border-bottom: 1px solid #999999;
+}
+
+#nav a {
+  margin-right: 14px;
+  font-weight: bold;
+}
+
+#content { padding: 15px; }
+
+.box {
+  border: 1px solid #999999;
+  background: #f7f7f7;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.box h2, .box h3 { margin-top: 0; color: #234f78; }
+
+label { display: block; margin-top: 8px; font-weight: bold; }
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 95%;
+  padding: 5px;
+  border: 1px solid #777777;
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+textarea { height: 70px; }
+
+button, .button {
+  display: inline-block;
+  background: #dddddd;
+  border: 1px solid #666666;
+  padding: 5px 12px;
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+button:hover, .button:hover { background: #cccccc; }
+
+.post {
+  border: 1px solid #aaaaaa;
+  background: white;
+  margin-bottom: 10px;
+}
+
+.post-title {
+  background: #e6edf5;
+  border-bottom: 1px solid #aaaaaa;
+  padding: 6px;
+}
+
+.post-body { padding: 8px; }
+.post-actions { padding: 0 8px 8px; }
+
+.small { font-size: 12px; color: #555555; }
+.notice { background: #ffffcc; border: 1px solid #ccbb66; padding: 8px; }
+
+.profile-table { width: 100%; border-collapse: collapse; }
+.profile-table td { border: 1px solid #aaaaaa; padding: 7px; }
+.profile-table td:first-child { width: 130px; background: #eeeeee; font-weight: bold; }
+
+.footer {
+  text-align: center;
+  font-size: 11px;
+  color: #555555;
+  padding: 10px;
+  border-top: 1px solid #aaaaaa;
+  background: #eeeeee;
+}
+
+.center { text-align: center; }
+.login-box { width: 420px; margin: 35px auto; }
