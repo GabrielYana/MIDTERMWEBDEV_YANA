@@ -105,3 +105,5 @@ Kung e refresh or gamiton sa lain nga browser/computer, some information may not
 Through this midterm, I practiced how to create several HTML pages and connect them using links. I also practiced basic CSS styling, HTML forms, and simple JavaScript events.
 
 Nakatabang pud ang midterm para masabtan nako nga ang frontend is responsible for what the user sees and interacts with on the website. Even without a backend, makahimo gihapon og simple prototype for practice.
+
+Before mo judge ka sir amiel, tan awi ang FINAL-FINALLLLLL_MIDTERM_YANA.HTML sir!
